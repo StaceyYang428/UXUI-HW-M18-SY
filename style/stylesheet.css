@@ -240,7 +240,7 @@ footer h3 {
 }
 
 
-/* Work section */
+/* Work page */
 .work-section {
   margin: 120px 320px;
 }
@@ -278,7 +278,7 @@ footer h3 {
 }
 
 
-/*About Section*/
+/*UXUI skill page*/
 .about-section {
   width: 80%;
   display: grid;
@@ -302,7 +302,6 @@ footer h3 {
 .about-right {
   grid-area: about-right;
 }
-
 
 /* skill section */
 
@@ -340,7 +339,7 @@ footer h3 {
 
 
 
-
+/*responive adjustments*/
 @media (max-width: 1024px) {
   .work-container {
     grid-template-columns: 1fr;
